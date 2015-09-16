@@ -1,0 +1,17 @@
+{
+  "name": "async-identity",
+  "version": "1.0.0",
+  "author": "Allain Lalonde <allain.lalonde@gmail.com>",
+  "description": "An asynchronous identition function that returns the value it's been given.",
+  "main": "index.js",
+  "keywords": [
+    "async"
+  ],
+  "scripts": {
+    "test": "tape test"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.2.0"
+  }
+}
