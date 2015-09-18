@@ -2,7 +2,7 @@
   "name": "async-identity",
   "version": "1.0.0",
   "author": "Allain Lalonde <allain.lalonde@gmail.com>",
-  "description": "An asynchronous identition function that returns the value it's been given.",
+  "description": "An asynchronous identity callback function that returns the value it's been given.",
   "main": "index.js",
   "keywords": [
     "async"
